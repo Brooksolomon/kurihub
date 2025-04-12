@@ -1,16 +1,10 @@
-# kurihub
+![image](https://github.com/user-attachments/assets/d18a4740-0372-41d7-81a3-9a88c7bded4e)![image](https://github.com/user-attachments/assets/88679587-fe21-42bb-b81d-7d574155e57a)# kurihub
 
-A new Flutter project.
+Revolutinalizing Hospitality Industry Forever
 
-## Getting Started
+## Screenshots
+![image](https://github.com/user-attachments/assets/f74ece5d-3208-4464-93a6-c9c2efb17219)
+![image](https://github.com/user-attachments/assets/817bd701-a4b7-4df5-a65d-a29b795e9aa6)
+![image](https://github.com/user-attachments/assets/3d7dad42-4bdc-40cf-92eb-acd750bde881)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
