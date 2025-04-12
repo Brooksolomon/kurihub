@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d18a4740-0372-41d7-81a3-9a88c7bded4e)![image](https://github.com/user-attachments/assets/88679587-fe21-42bb-b81d-7d574155e57a)# kurihub
+kurihub
 
 Revolutinalizing Hospitality Industry Forever
 
